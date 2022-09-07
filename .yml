@@ -1,0 +1,2 @@
+- name: VulnAlerts
+  uses: y-mehta/vulnalerts@v1
